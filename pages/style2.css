@@ -1,0 +1,202 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.banner-image1{
+   width: 100%;
+   height: 600px;
+}
+.flexbox-item-2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 100px;
+}
+.subscribe{
+	font-size: 35px;
+	font-weight: bold;
+	margin-left: 80px;
+}
+.p1{
+	width: 450px;
+	color: #707070;
+	margin-left: 80px;
+	padding: 20px;
+}
+.form{
+	border-radius: 10px;
+	padding: 15px;
+	width: 350px;
+	height: 35px;
+	border-color: white;
+	margin-left: 70px;
+	
+
+
+}
+.form-button{
+	padding: 10px;
+	border-radius: 15px;
+	width: 100px;
+	height: 35px;
+	background-color: #47AEE1;
+	color: white;
+	font-weight: bold;
+	border-color: skyblue;
+	
+
+}
+*, *:before, *:after {
+  box-sizing: border-box;}
+ h1{
+     font-size: 30px;
+     font-weight: bold;
+     margin-bottom: 20px;
+  }
+.p2{
+	width: 380px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: gray;
+}
+.footer-item1{
+	width: 400px;
+	margin-top: 180px;
+	margin-left: 80px;
+
+}
+h2{
+	font-size: 20px;
+	padding: 10px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+ .p3, .p4{
+	margin-left: 30px;
+	color: gray;
+}
+pre{
+	margin-left: 30px;
+	color: gray;
+}
+.p3{
+	width: 170px;
+	margin-bottom: 10px;
+}
+.footer-container{
+	background-color: #E2E6E5;
+	display: flex;
+
+}
+.p5{
+	color: gray;
+	margin-left: 30px;
+
+}
+h3{
+	font-size: 20px;
+	
+	margin-left: 30px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+.footer-image{
+	height: 650px;
+	width: 650px;
+}
+.footer-item2{
+	margin-top: 50px;
+	height: 650px;
+	width: 650px;
+	margin-left: 50px;
+	background-image: url("../img/Contactbackground.png");
+  background-position: center;
+  position: relative;
+  background-size: cover;
+  padding: 150px;
+}
+.flexbox-item-2{
+	background-color: #E5E5E5;
+}
+.form1{
+	border-radius: 15px;
+	padding: 15px;
+	width: 420px;
+	height: 40px;
+	border-color: white;
+	margin-top: 10px;
+}
+.form2{
+	border-radius: 15px;
+	padding: 15px;
+	width: 420px;
+	height: 40px;
+	border-color: white;
+	margin-top: 10px;
+}
+.form3{
+	border-radius: 15px;
+	padding: 15px;
+	width: 420px;
+	height: 150px;
+	border-color: white;
+	margin-top: 10px;
+}
+.form-button2{
+	padding: 10px;
+	border-radius: 20px;
+	width: 100px;
+	height: 40px;
+	background-color: #47E1AE;
+	color: white;
+	font-weight: bold;
+	border-color: #47E1AE;
+	margin-top: 20px;
+}
+.label{
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	margin-left: 15px;
+
+}
